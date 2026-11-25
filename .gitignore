@@ -1,0 +1,15 @@
+# build output
+build/
+*.obj
+*.pdb
+*.ilk
+*.exe
+
+# per-user runtime files (written next to the exe)
+*.ini
+*.log
+
+# editors
+.vs/
+.vscode/
+*.user
